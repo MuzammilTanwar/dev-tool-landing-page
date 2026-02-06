@@ -18,6 +18,12 @@ The goal of this assignment was to practice real world frontend layout, spacing,
 Please visit this link here to check the vercel deployment of this project. [Here](https://dev-tool-landing-page-c9t9.vercel.app)
 
 
+## Preview
+
+![Landing Page Preview](dev-tool-landing-page/assets/Screenshot%202026-02-06%20054004.png)
+
+
+
 ---
 
 ## Project Overview
