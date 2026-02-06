@@ -10,7 +10,6 @@ The goal of this assignment was to practice real world frontend layout, spacing,
 
 * HTML5
 * CSS3
-* Google Fonts (Inter)
 
 ---
 
@@ -20,7 +19,6 @@ The goal of this assignment was to practice real world frontend layout, spacing,
 * Hero section with headline and CTA
 * Feature and preview sections
 * Reviews / testimonials section
-* Frontier feature cards
 * Call-to-action section
 * Footer with links
 
